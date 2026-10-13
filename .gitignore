@@ -219,4 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Personal VS Code settings
+.vscode/
 
+# Environment variable files
+.env.*
+!.env.example
