@@ -156,6 +156,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv/
 
 # Spyder project settings
 .spyderproject
@@ -217,5 +218,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Dev Container
-.devcontainer
+
